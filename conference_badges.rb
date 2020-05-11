@@ -10,3 +10,6 @@ def batch_badge_creator(speakers)
   speakers.each {|name| message << "Hello, my name is #{name}."}
   message 
 end
+
+def assign_rooms
+  
